@@ -1,0 +1,6 @@
+{
+  "name": "HireSphere - Integrated Job Portal & Resume Intelligence",
+  "description": "Comprehensive job recruitment portal with intelligent skill-matching, candidate evaluation for recruiters, interactive resume building, and automated resume parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
